@@ -1,4 +1,4 @@
-# pokemonCardRandom
+# Generar random de Pokemon
 
 Genera un pokemon al azar, al presionar el boton!
 
