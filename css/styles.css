@@ -46,6 +46,7 @@ body{
 }
 
 .poke-name{
+    text-transform: capitalize;
     text-align: center;
     font-weight: 600;
 }
